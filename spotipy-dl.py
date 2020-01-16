@@ -24,8 +24,8 @@ YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
 # Spotify API
-client_id = "541e8d34b80340dd96c79e9ae48c678d"
-client_secret = "efb6a24f64d04b0a98ac85e6b834149c"
+client_id = ""
+client_secret = ""
 redirect_url = "https://google.com"
 
 # =========== Util ===========
