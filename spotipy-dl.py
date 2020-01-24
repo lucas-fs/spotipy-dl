@@ -223,7 +223,7 @@ if __name__ == '__main__':
         url_list = []
         url_list.append("https://www.youtube.com/watch?v=" + video_id)
 
-        output_str = playlist_path+"/"+str(i)+" - "+q
+        output_str = playlist_path+"/"+str(i+1)+" - "+q
         ydl_opts = {
             'verbose': False,
             'quiet': True,
